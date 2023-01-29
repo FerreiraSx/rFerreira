@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on Load Minecraft Server
 
+----
+
 ## 🚀 Learning
 
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
