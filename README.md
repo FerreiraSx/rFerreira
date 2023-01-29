@@ -1,4 +1,6 @@
-# 💜 Welcome to my profile, my name is <strong>Rodrigo.</strong>
+# 💜 Welcome to my profile.
+
+My name is <strong>Rodrigo.</strong>
 
 ----
 
